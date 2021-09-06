@@ -1,3 +1,5 @@
 Hello, everyone.
 This is Initial commit.
 New git repo created for new commit.
+Git skipping staging area.
+
