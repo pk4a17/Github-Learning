@@ -3,3 +3,5 @@ This is Initial commit.
 New git repo created for new commit.
 Git skipping staging area.
 
+Hey everyone!
+I am on GitHUb.
